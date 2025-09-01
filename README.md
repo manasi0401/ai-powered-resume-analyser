@@ -18,6 +18,9 @@
 6. 🚀 [More](#more)
 
 
+## <a name="introduction">✨ Deployed Link</a>
+https://ai-powered-resume-analyser-nu.vercel.app/
+
 
 ## <a name="introduction">✨ Introduction</a>
 
